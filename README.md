@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gokulprasath</h1>
 <h3 align="center">A passionate data scientist/web-developer</h3>
+<p align="center"><img src="IMG-20220410-WA0027.jpg" style="height:290px;width:160px"/></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulprasath2002&label=Profile%20views&color=0e75b6&style=flat" alt="gokulprasath2002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulprasath2002" alt="gokulprasath2002" /></a> </p>
