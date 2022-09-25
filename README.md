@@ -3,7 +3,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokulprasath2002" alt="gokulprasath2002" /></a> </p>
+
 
 - 👨‍💻 All of my projects are available at [https://gokul.drcstudio.co.in/](https://gokul.drcstudio.co.in/)
 
