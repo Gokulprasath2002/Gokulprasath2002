@@ -5,11 +5,10 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://gokul.drcstudio.co.in/](https://gokul.drcstudio.co.in/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gokul-prasath-1b18a21b2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul-prasath-1b18a21b2" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/gokul-prasath-1b18a21b2](https://www.linkedin.com/in/gokulprasathr/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gokul-prasath-1b18a21b2" height="30" width="40" /></a>
 <a href="https://kaggle.com/gokulprasath@2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="gokulprasath@2002" height="30" width="40" /></a>
 </p>
 
